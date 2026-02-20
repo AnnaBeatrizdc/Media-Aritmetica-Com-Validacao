@@ -74,6 +74,4 @@ msbuild media-aritmetica-validacao.sln /p:Configuration=Release
 ## 📄 Licença
 Este projeto está sob a licença especificada no arquivo [LICENSE](LICENSE).
 ## 👥 Autor
-AnnaBeatrizdc
-## 🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+Anna Beatriz DC
