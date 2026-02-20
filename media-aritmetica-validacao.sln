@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media-aritmetica-validacao", "media-aritmetica-validacao\media-aritmetica-validacao.csproj", "{81C644D2-EB97-4D1F-853D-3FA28FEA21CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C644D2-EB97-4D1F-853D-3FA28FEA21CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C644D2-EB97-4D1F-853D-3FA28FEA21CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C644D2-EB97-4D1F-853D-3FA28FEA21CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C644D2-EB97-4D1F-853D-3FA28FEA21CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D68E44-907E-4DB9-B252-A50C366FF104}
+	EndGlobalSection
+EndGlobal

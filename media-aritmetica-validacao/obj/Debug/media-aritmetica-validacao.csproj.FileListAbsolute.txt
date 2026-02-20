@@ -1,0 +1,22 @@
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\bin\Debug\media-aritmetica-validacao.exe.config
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\bin\Debug\media-aritmetica-validacao.exe
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\bin\Debug\media-aritmetica-validacao.pdb
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media_aritmetica_validacao.Form1.resources
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media_aritmetica_validacao.Properties.Resources.resources
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.csproj.GenerateResource.cache
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.exe
+C:\Users\unisanta\Downloads\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.pdb
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\bin\Debug\media-aritmetica-validacao.exe.config
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\bin\Debug\media-aritmetica-validacao.exe
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\bin\Debug\media-aritmetica-validacao.pdb
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.csproj.AssemblyReference.cache
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.exe.config
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media_aritmetica_validacao.Form1.resources
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media_aritmetica_validacao.Properties.Resources.resources
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.csproj.GenerateResource.cache
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.csproj.CoreCompileInputs.cache
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.exe
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\media-aritmetica-validacao\media-aritmetica-validacao\obj\Debug\media-aritmetica-validacao.pdb
